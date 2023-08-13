@@ -9,5 +9,5 @@
     </article>
 
 
-    <a href="/blog">Back to blog</a>
+    <a href="/posts">Back to blog</a>
 @endsection
